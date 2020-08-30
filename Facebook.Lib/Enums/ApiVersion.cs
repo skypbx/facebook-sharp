@@ -1,4 +1,6 @@
-﻿using System.ComponentModel;
+﻿// Copyright (c) 2020 Jonathan Rainier / skyPBX LLC. All rights reserved.
+
+using System.ComponentModel;
 
 namespace Facebook.Lib.Enums
 {
